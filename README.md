@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
- <img width="450px" align="right"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+ <img width="450px" align="right"  src="https://user-images.githubusercontent.com/28990547/110966289-ded4f080-8333-11eb-8a58-e6c77ce80fd9.gif" /> 
 
 - 🔭 Currently working on Oracle DataBases and automation scripts
 - 🤔 Learning JavaScript, ReactJS and NodeJS
