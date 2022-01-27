@@ -2,7 +2,7 @@
  <img width="400px" align="right"  src="https://www.edureka.co/blog/wp-content/uploads/2018/10/How-to-become-a-Full-Stack-Web-Developer--451x300.png" /> 
 
 - 🔭 I’m currently working on Oracle DataBases and automation scripts
-- 🤔 I’m currently learning JavaScript, ReactJS and NodeJS
+- 🤔 Learning JavaScript, ReactJS and NodeJS
 - 🪙 Crypto and Blockchain enthusiast
 
 ### 🖥️ Techs 
