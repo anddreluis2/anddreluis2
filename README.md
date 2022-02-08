@@ -2,7 +2,7 @@
  <img width="450px" align="right"  src="https://user-images.githubusercontent.com/28990547/110966289-ded4f080-8333-11eb-8a58-e6c77ce80fd9.gif" /> 
 
 - 🔭 Currently working on Oracle DataBases and automation scripts
-- 🤔 Learning JavaScript, ReactJS and NodeJS
+- 🤔 Working on personal projects: JavaScript, ReactJS and NodeJS
 - 🪙 Crypto and Blockchain enthusiast
 
 ### 🖥️ Techs 
