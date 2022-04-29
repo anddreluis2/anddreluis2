@@ -1,14 +1,15 @@
 <h1>Hi there 👋</h1>
  <img width="450px" align="right"  src="https://user-images.githubusercontent.com/28990547/110966289-ded4f080-8333-11eb-8a58-e6c77ce80fd9.gif" /> 
 
-- 🔭 Currently working on Oracle DataBases and automation scripts
-- 🤔 Working on personal projects: JavaScript, ReactJS and NodeJS
+- 🔭 Currently working on ReactJS, Next.js and Typescript projects.
+- 🤔 Working on personal projects: Solidity, NodeJS and Web3 apps.
 - 🪙 Crypto and Blockchain enthusiast
 
 ### 🖥️ Techs 
 - JavaScript
-- React
+- ReactJS
 - TypeScript
+- NodeJS
 - Sass
 - MySQL
  
