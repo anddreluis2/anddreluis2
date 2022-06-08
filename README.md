@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on ReactJS, Next.js and Typescript projects.
 - 🤔 Working on personal projects: Solidity, NodeJS and Web3 apps.
-- 🪙 Crypto and Blockchain enthusiast
+- 💡 Crypto and Blockchain enthusiast
 
 ### 🖥️ Techs 
 - JavaScript
