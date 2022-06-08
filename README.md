@@ -20,9 +20,8 @@
  
  ### 📈 Stats
  
- <img align="center" src="https://camo.githubusercontent.com/615c10f9d23876ef40562703033e5918632073a11754f4bdbdf1ba8ac98f987d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656c69636176616c686569726f267468656d653d64726163756c6126686964655f626f726465723d74727565266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddreluis2&amp;theme=dracula&amp;hide_border=true&amp;layout=compact" style="max-width: 100%;">
- <br/>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anddreluis2&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
  ### 📇 Contact
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D3895?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-mateus-770219198/)](https://www.linkedin.com/in/andreluisdeoliveiraandrade/) [![Outlook Badge](https://img.shields.io/badge/-Email-0D3895?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:anddreluis98@outlook.com)](mailto:anddreluis98@outlook.com)
   
