@@ -2,8 +2,10 @@
 
 ### 🤠 About me
 
-🔭 Front-End developer
+🔭 Front-End developer 
+<br/>
 🤔 Working on personal projects: ReactJS, NodeJS and NextJS techs
+<br/>
 💡 Crypto and Blockchain enthusiast
 <br/>
 ### 🖥️ Techs 
