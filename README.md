@@ -6,8 +6,6 @@
 <br/>
 🤔 Working on personal projects: ReactJS, NodeJS and NextJS techs
 <br/>
-💡 Crypto and Blockchain enthusiast
-<br/>
 <h2> 🖥️ Techs </h2>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4394257b41a4140a00c9c97fcbaa7363ff60d7e753d2b9d95e59ee9df96cf29d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f70726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f7372632f6a6176617363726970742f6a6176617363726970745f33327833322e706e67"><img src="https://camo.githubusercontent.com/4394257b41a4140a00c9c97fcbaa7363ff60d7e753d2b9d95e59ee9df96cf29d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f70726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f7372632f6a6176617363726970742f6a6176617363726970745f33327833322e706e67" data-canonical-src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_32x32.png" style="max-width: 100%;"></a> 
