@@ -1,10 +1,10 @@
 <h1>Hi there, my name is Andre 👋</h1>
 
-<h2> 🤠 About me </h2>
+<h2> About me </h2>
 
-🔭 Front-End developer 
+🔭 software engineer 
 <br/>
-🤔 Working on personal projects: ReactJS, NodeJS and NextJS techs
+Working on personal projects using ReactJS, NodeJS, Golang, Meteor
 <br/>
 <h2> 🖥️ Techs </h2>
 <p dir="auto">
