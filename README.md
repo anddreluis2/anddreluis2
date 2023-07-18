@@ -27,6 +27,6 @@ Working on personal projects using ReactJS, NodeJS, Golang, Meteor
   
    <h2> 📍 For more informations: </h2>
  
- https://andre-luis.vercel.app/
+ https://anddreluis.com.br
  
  ### 
