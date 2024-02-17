@@ -18,6 +18,5 @@ Working on personal projects using ReactJS, NodeJS, Golang, Meteor
   
    <h2> 📍 For more informations: </h2>
 
-   https://twitter.com/anddreluis_
- 
+<a href="https://twitter.com/anddreluis_">Follow me on twitter</a> 
  ### 
