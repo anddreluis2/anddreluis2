@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-🔭 software engineer at @meteorjs
+🔭 software engineer 
 <br/>
 Working on personal projects using ReactJS, NodeJS, Golang, Meteor
 <br/>
