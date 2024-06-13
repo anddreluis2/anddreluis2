@@ -4,7 +4,7 @@
 
 🔭 software engineer 
 <br/>
-Working on personal projects using ReactJS, NodeJS, Golang, Meteor
+Working on personal projects using ReactJS, NodeJS, Golang
 <br/>
  
  <h2> 📈 Favorite Techs</h2>
