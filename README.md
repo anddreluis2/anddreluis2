@@ -4,5 +4,5 @@ currently building <a href="humantrack.io">humantrack.io</a>.
 
 <br/>  
  
-<a href="https://twitter.com/anddreluis_">@anddreluis_ on x</a> 
+<a href="https://twitter.com/anddreluis_">@anddreluis_ on 𝕏</a> 
  ### 
