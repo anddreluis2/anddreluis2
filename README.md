@@ -1,4 +1,4 @@
-hi, i'm andre, software engineer, working with react, node and typescript. <br /> <br /> 
+i'm andre, a software engineer based in Curitiba, working with react, node and typescript. <br /> <br /> 
 currently building <a href="humantrack.io">humantrack.io</a>
 
 
