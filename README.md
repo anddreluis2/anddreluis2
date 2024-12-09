@@ -1,5 +1,5 @@
 i'm andre, a software engineer based in Curitiba, working with react, node and typescript. <br /> <br /> 
-currently building <a href="humantrack.io">humantrack.io</a>
+currently building <a href="humantrack.io">humantrack.io</a>.
 
 
 <br/>  
